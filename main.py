@@ -2,6 +2,7 @@ import geopandas as gpd
 import pandas as pd
 import matplotlib.pyplot as plt
 import random
+import matplotlib.colors as mcolors
 
 # Шаг 1. Создание тестовых данных для всех регионов
 # regions = [
@@ -49,9 +50,11 @@ merged = geo_df.merge(df, left_on="region_name", right_on="region", how="left")
 
 # Шаг 4. Построение карты
 fig, ax = plt.subplots(1, figsize=(12, 10))
+
+custom_cmap = mcolors.LinearSegmentedColormap.from_list("custom_greens", ["#cedac3", "#33a02c", "#044304"])
 merged.plot(column="count",
             ax=ax,
-            cmap="OrRd",           # цветовая схема
+            cmap=custom_cmap,  # Используем кастомный градиент
             edgecolor="black",
             legend=True,
             legend_kwds={"label": "Количество записей", "orientation": "horizontal"},
