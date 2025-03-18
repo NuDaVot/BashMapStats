@@ -30,7 +30,7 @@ def extract_bashkortostan(input_file, output_file):
 
     print(f"Данные сохранены в {output_file}\n")
     print("Список всех NL_NAME_2 в Башкортостане:")
-    pprint(sorted(region_names))
+    print(sorted(region_names))
 
 
 # Использование
