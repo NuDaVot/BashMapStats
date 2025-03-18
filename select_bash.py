@@ -34,4 +34,4 @@ def extract_bashkortostan(input_file, output_file):
 
 
 # Использование
-extract_bashkortostan("gadm41_RUS_3.json", "bashkortostan.json")
+extract_bashkortostan("initial_data/gadm41_RUS_3.json", "operational_data/bashkortostan.json")

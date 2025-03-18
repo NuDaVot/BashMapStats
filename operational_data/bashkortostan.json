@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "region_name": "Абзелиловский район"
+                "region_name": "Абзелиловскийрайон"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -327,7 +327,7 @@
         {
             "type": "Feature",
             "properties": {
-                "region_name": "Альшеевский район"
+                "region_name": "Альшеевскийрайон"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -702,7 +702,7 @@
         {
             "type": "Feature",
             "properties": {
-                "region_name": "Архангельский район"
+                "region_name": "Архангельскийрайон"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -965,7 +965,7 @@
         {
             "type": "Feature",
             "properties": {
-                "region_name": "Аскинский район"
+                "region_name": "Аскинскийрайон"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -1256,7 +1256,7 @@
         {
             "type": "Feature",
             "properties": {
-                "region_name": "Аургазинский район"
+                "region_name": "Аургазинскийрайон"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -1523,7 +1523,7 @@
         {
             "type": "Feature",
             "properties": {
-                "region_name": "Бакалинский район"
+                "region_name": "Бакалинскийрайон"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -1726,7 +1726,7 @@
         {
             "type": "Feature",
             "properties": {
-                "region_name": "Балтачевский район"
+                "region_name": "Балтачевскийрайон"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -1964,7 +1964,7 @@
         {
             "type": "Feature",
             "properties": {
-                "region_name": "Баймакский район"
+                "region_name": "Баймакскийрайон"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -2399,7 +2399,7 @@
         {
             "type": "Feature",
             "properties": {
-                "region_name": "Белебеевский район"
+                "region_name": "Белебеевскийрайон"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -2719,7 +2719,7 @@
         {
             "type": "Feature",
             "properties": {
-                "region_name": "Белокатайский район"
+                "region_name": "Белокатайскийрайон"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -2998,7 +2998,7 @@
         {
             "type": "Feature",
             "properties": {
-                "region_name": "Белорецкий район"
+                "region_name": "Белорецкийрайон"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -3620,7 +3620,7 @@
         {
             "type": "Feature",
             "properties": {
-                "region_name": "Бирский район"
+                "region_name": "Бирскийрайон"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -3865,7 +3865,7 @@
         {
             "type": "Feature",
             "properties": {
-                "region_name": "Бижбулякский район"
+                "region_name": "Бижбулякскийрайон"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -4076,7 +4076,7 @@
         {
             "type": "Feature",
             "properties": {
-                "region_name": "Благоварский район"
+                "region_name": "Благоварскийрайон"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -4338,7 +4338,7 @@
         {
             "type": "Feature",
             "properties": {
-                "region_name": "Благовещенский район"
+                "region_name": "Благовещенскийрайон"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -4647,7 +4647,7 @@
         {
             "type": "Feature",
             "properties": {
-                "region_name": "Бураевский район"
+                "region_name": "Бураевскийрайон"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -4898,7 +4898,7 @@
         {
             "type": "Feature",
             "properties": {
-                "region_name": "Бурзянский район"
+                "region_name": "Бурзянскийрайон"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -5293,7 +5293,7 @@
         {
             "type": "Feature",
             "properties": {
-                "region_name": "Буздякский район"
+                "region_name": "Буздякскийрайон"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -5548,7 +5548,7 @@
         {
             "type": "Feature",
             "properties": {
-                "region_name": "Чекмагушевский район"
+                "region_name": "Чекмагушевскийрайон"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -5743,7 +5743,7 @@
         {
             "type": "Feature",
             "properties": {
-                "region_name": "Чишминский район"
+                "region_name": "Чишминскийрайон"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -6009,7 +6009,7 @@
         {
             "type": "Feature",
             "properties": {
-                "region_name": "Давлекановский район"
+                "region_name": "Давлекановскийрайон"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -6318,7 +6318,7 @@
         {
             "type": "Feature",
             "properties": {
-                "region_name": "Дуванский район"
+                "region_name": "Дуванскийрайон"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -6748,7 +6748,7 @@
         {
             "type": "Feature",
             "properties": {
-                "region_name": "Дюртюлинский район"
+                "region_name": "Дюртюлинскийрайон"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -6993,7 +6993,7 @@
         {
             "type": "Feature",
             "properties": {
-                "region_name": "Федоровский район"
+                "region_name": "Федоровскийрайон"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -7232,7 +7232,7 @@
         {
             "type": "Feature",
             "properties": {
-                "region_name": "Гафурийский район"
+                "region_name": "Гафурийскийрайон"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -7583,7 +7583,7 @@
         {
             "type": "Feature",
             "properties": {
-                "region_name": "Иглинский район"
+                "region_name": "Иглинскийрайон"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -7882,7 +7882,7 @@
         {
             "type": "Feature",
             "properties": {
-                "region_name": "Илишевский район"
+                "region_name": "Илишевскийрайон"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -8164,7 +8164,7 @@
         {
             "type": "Feature",
             "properties": {
-                "region_name": "Ишимбайский район"
+                "region_name": "Ишимбайскийрайон"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -8617,7 +8617,7 @@
         {
             "type": "Feature",
             "properties": {
-                "region_name": "Калтасинский район"
+                "region_name": "Калтасинскийрайон"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -8792,7 +8792,7 @@
         {
             "type": "Feature",
             "properties": {
-                "region_name": "Караидельский район"
+                "region_name": "Караидельскийрайон"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -9131,7 +9131,7 @@
         {
             "type": "Feature",
             "properties": {
-                "region_name": "Кармаскалинский район"
+                "region_name": "Кармаскалинскийрайон"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -9398,7 +9398,7 @@
         {
             "type": "Feature",
             "properties": {
-                "region_name": "Хайбуллинский район"
+                "region_name": "Хайбуллинскийрайон"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -9749,7 +9749,7 @@
         {
             "type": "Feature",
             "properties": {
-                "region_name": "Кигинский район"
+                "region_name": "Кигинскийрайон"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -9964,7 +9964,7 @@
         {
             "type": "Feature",
             "properties": {
-                "region_name": "Краснокамский район"
+                "region_name": "Краснокамскийрайон"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -10233,7 +10233,7 @@
         {
             "type": "Feature",
             "properties": {
-                "region_name": "Кугарчинский район"
+                "region_name": "Кугарчинскийрайон"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -10599,7 +10599,7 @@
         {
             "type": "Feature",
             "properties": {
-                "region_name": "Кушнаренковский район"
+                "region_name": "Кушнаренковскийрайон"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -10862,7 +10862,7 @@
         {
             "type": "Feature",
             "properties": {
-                "region_name": "Куюргазинский район"
+                "region_name": "Куюргазинскийрайон"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -11195,7 +11195,7 @@
         {
             "type": "Feature",
             "properties": {
-                "region_name": "Мечетлинский район"
+                "region_name": "Мечетлинскийрайон"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -11465,7 +11465,7 @@
         {
             "type": "Feature",
             "properties": {
-                "region_name": "Мелеузовский район"
+                "region_name": "Мелеузовскийрайон"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -11918,7 +11918,7 @@
         {
             "type": "Feature",
             "properties": {
-                "region_name": "Мишкинский район"
+                "region_name": "Мишкинскийрайон"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -12149,7 +12149,7 @@
         {
             "type": "Feature",
             "properties": {
-                "region_name": "Миякинский район"
+                "region_name": "Миякинскийрайон"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -12459,7 +12459,7 @@
         {
             "type": "Feature",
             "properties": {
-                "region_name": "Нуримановский район"
+                "region_name": "Нуримановскийрайон"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -12812,7 +12812,7 @@
         {
             "type": "Feature",
             "properties": {
-                "region_name": "Салаватский район"
+                "region_name": "Салаватскийрайон"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -13091,7 +13091,7 @@
         {
             "type": "Feature",
             "properties": {
-                "region_name": "Шаранский район"
+                "region_name": "Шаранскийрайон"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -13345,7 +13345,7 @@
         {
             "type": "Feature",
             "properties": {
-                "region_name": "Стерлибашевский район"
+                "region_name": "Стерлибашевскийрайон"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -13668,7 +13668,7 @@
         {
             "type": "Feature",
             "properties": {
-                "region_name": "Стерлитамакский район"
+                "region_name": "Стерлитамакскийрайон"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -14117,7 +14117,7 @@
         {
             "type": "Feature",
             "properties": {
-                "region_name": "Татышлинский район"
+                "region_name": "Татышлинскийрайон"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -14300,7 +14300,7 @@
         {
             "type": "Feature",
             "properties": {
-                "region_name": "Туймазинский район"
+                "region_name": "Туймазинскийрайон"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -14678,7 +14678,7 @@
         {
             "type": "Feature",
             "properties": {
-                "region_name": "Учалинский район"
+                "region_name": "Учалинскийрайон"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -15029,7 +15029,7 @@
         {
             "type": "Feature",
             "properties": {
-                "region_name": "Уфимский район"
+                "region_name": "Уфимскийрайон"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -15387,7 +15387,7 @@
         {
             "type": "Feature",
             "properties": {
-                "region_name": "Янаульский район"
+                "region_name": "Янаульскийрайон"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -15608,7 +15608,7 @@
         {
             "type": "Feature",
             "properties": {
-                "region_name": "Ермекеевский район"
+                "region_name": "Ермекеевскийрайон"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -15795,7 +15795,7 @@
         {
             "type": "Feature",
             "properties": {
-                "region_name": "Зианчуринский район"
+                "region_name": "Зианчуринскийрайон"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -16146,7 +16146,7 @@
         {
             "type": "Feature",
             "properties": {
-                "region_name": "Зилаирский район"
+                "region_name": "Зилаирскийрайон"
             },
             "geometry": {
                 "type": "MultiPolygon",

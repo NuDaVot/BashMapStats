@@ -1,7 +1,10 @@
 import json
 
 # Загружаем исходный geojson файл
-with open('export.geojson', 'r', encoding='utf-8') as f:
+# with open('initial_data/ufa_districts.geojson', 'r', encoding='utf-8') as f:
+#     export_data = json.load(f)
+
+with open('initial_data/parts_ufa.geojson', 'r', encoding='utf-8') as f:
     export_data = json.load(f)
 
 # Создаем новый словарь для преобразованного файла
@@ -45,7 +48,10 @@ for feature in export_data['features']:
     bashkortostan_regions['features'].append(new_feature)
 
 # Записываем результат в новый JSON файл
-with open('ufa_district.json', 'w', encoding='utf-8') as f:
+# with open('operational_data/ufa_district.json.json', 'w', encoding='utf-8') as f:
+#     json.dump(bashkortostan_regions, f, ensure_ascii=False, indent=4)
+
+with open('operational_data/parts_ufa.json', 'w', encoding='utf-8') as f:
     json.dump(bashkortostan_regions, f, ensure_ascii=False, indent=4)
 
 
